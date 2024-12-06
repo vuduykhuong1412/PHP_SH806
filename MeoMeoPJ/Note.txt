@@ -1,0 +1,3 @@
+Phương án cho trang chủ
+- Tạo 1 trang hiển thị sau khi đăng nhập sẽ hiển thị tài khoản ( Giữ nguyên trang chủ cũ)
+- Xử lí với logic: Nếu đăng nhập thì phần " Đăng nhập " và " Đăng kí " Sẽ đổi sang " Tên TK " và " Đăng xuất "
